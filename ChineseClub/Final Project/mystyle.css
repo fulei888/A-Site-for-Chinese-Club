@@ -1,0 +1,778 @@
+
+.middle{
+  margin:auto;
+  width:850px;
+  
+  
+}
+nav ul {
+    list-style-type: none;
+     margin:0px;
+   
+    padding: 0;
+    overflow: hidden;
+   background-color: #222121;
+  
+    opacity:1;
+    position:relative;
+    font-size:15px;
+   font-weight: bold;
+    
+}
+
+nav li {
+    float: left;
+
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    
+}
+
+nav li a:hover{
+    background-color: lightgrey;
+    color:black;
+}
+.sidebar{
+    list-style-type: none;
+     margin:0px;
+  
+    padding: 0;
+    overflow: hidden;
+   
+    color:red;
+    opacity:1;
+    position:relative;
+    font-size:15px;
+   font-weight: bold;
+}
+.selected{
+    background-color: lightgrey;
+    color:black;
+}
+
+.word{
+    position:absolute;
+    left:10%;
+    top:20%;
+    text-shadow: 3px 3px white;
+    font-size:80px;
+   font-weight: bold;
+    font-family: 'Bebas', sans-serif;
+
+}
+div{
+    display:block;
+}
+
+body{
+    margin:0px;
+   font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #626262;
+    background-color: transparent;
+ }
+.mainWrap{
+    background-image: url(body-bg.png) !important;
+    background-repeat: repeat !important;
+    padding: 57px;
+}
+
+
+.par_a{
+    text-indent: 50px;
+    line-height: 2;
+}
+.image{
+    float:left;
+    width:20%;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.13);
+    border-width: 1px;
+    margin-right:30px;
+    padding: 3px;
+}
+.head_picture{
+    width:100%;
+    height:250px;
+}
+.paragraph{
+   width:70%;
+   float:left;
+}
+.title{
+    margin-bottom:10px;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 45px;
+    font-family: 'Bebas', sans-serif;
+    font-size:35px; 
+    color:#094a6e;
+}
+.container{
+      margin: 15px auto 15px auto;
+      width:70%;
+      padding:5px;
+    overflow: auto;
+}
+.container_f{
+    margin: 15px auto 15px auto;
+      width:70%;
+      padding:5px;
+    overflow: auto;
+}
+.container_a{
+      margin: 15px auto 15px auto;
+      width:70%;
+      padding:5px;
+    overflow: auto;
+}
+
+.getit{
+     
+    width:100%;
+    height:800px;
+    background-image: url(china.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+   
+    background-size: cover;
+    padding:0px;
+    margin-top:0px;
+    
+}
+
+
+
+
+nav{
+    background: #222121;
+    border-top-style: solid;
+    border-top-color: #f64649;
+    
+    
+}
+footer{
+   
+    background-color:#222121;
+    color:white;
+    text-align: center;
+    padding: 35px 0 20px;
+    font-size: 15px;
+    color: #fff;
+}
+.landing-page .button-wrap {
+    display: inline-block;
+    
+   
+}
+.landing-page .banner-wrap #banner, .tall-header-page .banner-wrap #banner, .short-header-page .banner-wrap #banner {
+    padding: 0;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.wsite-button {
+    display: inline-block;
+    padding: 0;
+    background: #f64649;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+.wsite-button {
+    display: inline-block;
+  
+    text-decoration: none !important;
+    font-weight: normal !important;
+    font-size: 14px !important;
+    color: #222 !important;
+    cursor: pointer;
+    margin-top:30%;
+}
+Style Attribute {
+    text-align: center;
+}
+.wsite-button-inner {
+    color: #fff !important;
+    font-family: 'Lato', sans-serif;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 15px;
+    background: none;
+    text-transform: uppercase;
+    height: 40px;
+    line-height: 40px;
+    
+}
+.galleryImageBorder{
+    
+} 
+
+.wsite-image{
+    float:left;
+    width:30%;
+}
+.wsite-button-inner {
+   
+    white-space: nowrap;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+     
+}
+th, td {
+    padding: 5px;
+   text-align:center;
+}
+
+form{
+    width:80%;
+    margin:auto;
+}
+
+fieldset{
+     
+   width:100%;
+    background:lightgrey;
+    padding:10px;
+}
+
+legend{
+    background:lightblue;
+}
+
+.label {
+    width:130px;
+    clear:left;
+    text-align:right;
+    padding-right:10px;
+     float:left;
+    margin-bottom:10px;
+    padding-bottom:5px;
+}
+input[type=text], input[type=password],input[type=email],input[type=date] {
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background:lightblue;
+}
+
+.format{
+    float:left;
+    margin-bottom:10px;
+    padding-bottom:5px;
+}
+.button {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: black;
+  background-color: lightgrey;
+  border: solid white;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: grey}
+
+.button:active {
+  background-color: lightgrey;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.border{
+    border: 2px solid #ddd;
+    border-radius: 5px;
+     padding: 5px;
+}
+.byuh{
+    color:#8d2424;
+}
+.cc{
+    color:#24678d;
+}
+.newdivine{
+    float:left; clear:both; margin-left:25px;
+}
+.center{
+    text-align: center
+}
+.img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+   
+}
+
+.img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.funcenter{
+ margin: 0 auto;
+ 
+ overflow: auto;
+ }
+ .activityrightpart{
+     width:60%; 
+     float:left;
+     margin-top:0px;
+	 
+ }
+ .makeside{
+     width:20%;
+     float: right;
+     
+ }
+ .sidelink{
+     text-decoration: none; color:red;
+    
+     margin-bottom:50px;
+ }
+ .sidelink:hover { 
+    color: grey;
+}
+.width{
+   width:98%; 
+}
+.space{
+    margin-top:20px;
+}
+.btn-group .buttong {
+  
+    border: 1px solid grey;
+   
+    float: left;
+    width:350px;
+    height:100px;
+    border-radius: 15px;
+    
+     
+   
+    padding-top: 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn-group .buttong:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+.btn-group .buttong:hover {
+    background-color:grey;
+    color:white;
+   
+}
+.red{
+  background-color: red;
+   color:yellow;
+  
+}
+.yellow{
+background-color: yellow;
+color:red;
+}
+.blue{
+background-color:blue;
+color:white;
+}
+.green{
+background-color:green;
+color:white;
+}
+.floatleft{
+   
+    float:left;
+    width:100%;
+}
+table{
+    width:100%;
+}
+
+
+
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+.a_first_title{
+ width:500px; 
+ 
+ 
+}
+figcaption{
+    margin-top:10px;
+    font-size:30px;
+}
+.container_f{
+    margin: 15px auto 15px auto;
+      width:100%;
+      padding:5px;
+    overflow: auto;
+}
+legend{
+     font-size:25px;
+}
+label{
+    font-size:20px;
+}
+.sidelink{
+    font-size:30px;
+    
+}
+h2{
+    font-size:30px;
+}
+
+.makeside{
+    margin-bottom:30px;
+    float:none;
+    clear:both;
+}
+.gospelform{
+    width:500px;
+    clear:both;
+    float:none;
+    clear:both;
+}
+.activityrightpart{
+    width:100%;
+    float:none;
+     clear:both;
+	 
+    }
+.middle{
+  margin:auto;
+  width:100%;
+  
+}
+   nav ul {
+    list-style-type: none;
+     margin:0px;
+  
+    padding: 0;
+    overflow: hidden;
+    background-color: #222121;
+    opacity:1;
+    position:relative;
+    font-size:15px;
+   font-weight: bold;
+    
+}
+nav li {
+    float: left;
+    width:100%;
+    border-bottom:rgb(60, 60, 60) solid 0.1px;
+}
+
+nav li a {
+    display: block;
+    color: white;
+  text-align: center;
+    padding-top: 50px;
+    padding-bottom:50px;
+    font-size:40px;
+   
+    text-decoration: none;
+    
+}
+
+.word{
+    position:absolute;
+  left:20%;
+    top:65%;
+    text-shadow: 4px 4px white;
+    font-size:60px;
+   font-weight: bold;
+    font-family: 'Bebas', sans-serif;
+
+}
+.wsite-button {
+    display: inline-block;
+  
+    text-decoration: none;
+    font-weight: normal ;
+    font-size: 14px ;
+    color: #222 ;
+    cursor: pointer;
+    margin-top:40%;
+}
+.getit{
+     
+    width:100%;
+    height:500px;
+    background-image: url(china.jpg) ;
+    background-repeat: no-repeat ;
+    background-position: center top ;
+   
+    background-size: cover;
+    padding:0px;
+    margin-top:0px;
+}
+.container{
+      margin: 15px auto 15px auto;
+      width:100%;
+      padding:5px;
+    overflow: auto;
+}
+.container_a{
+      margin: 15px auto 15px auto;
+      width:100%;
+      padding:5px;
+    overflow: auto;
+}
+
+.par_a{
+    text-indent: 50px;
+    line-height: 2;
+    font-size:30px;
+}
+.par_aa{
+   
+    font-size:30px;
+}
+ .title{
+    margin-bottom:10px;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 45px;
+    font-family: 'Bebas', sans-serif;
+    font-size:35px; 
+    color:#094a6e;
+    font-weight: bold;
+}
+.tw_size{
+    font-size:23px;
+   
+}
+   
+
+}
+@media only screen and (max-width: 800px) {
+
+.middle{
+ margin:auto;
+  width:100%;
+  
+}
+nav ul {
+    list-style-type: none;
+     margin:0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222121;
+    opacity:1;
+    position:relative;
+    font-size:15px;
+   font-weight: bold;
+    
+}
+nav li {
+    float: left;
+    width:100%;
+    border-bottom:rgb(60, 60, 60) solid 0.1px;
+}
+
+nav li a {
+    display: block;
+    color: white;
+  text-align: center;
+    padding-top: 3px;
+    padding-bottom:3px;
+    font-size:15px;
+   
+    text-decoration: none;
+    
+}
+
+.word{
+    position:absolute;
+  left:20%;
+    top:40%;
+    text-shadow: 3px 3px white;
+    font-size:40px;
+   font-weight: bold;
+    font-family: 'Bebas', sans-serif;
+
+}
+.wsite-button {
+    display: inline-block;
+  
+    text-decoration: none;
+    font-weight: normal ;
+    font-size: 14px ;
+    color: #222 ;
+    cursor: pointer;
+    margin-top:60%;
+}
+.getit{
+     
+    width:100%;
+    height:500px;
+    background-image: url(china.jpg) ;
+    background-repeat: no-repeat ;
+    background-position: center top;
+   
+    background-size: cover;
+    padding:0px;
+    margin-top:0px;
+    
+}
+.container{
+      margin: 15px auto 15px auto;
+      width:100%;
+      padding:5px;
+    overflow: auto;
+}
+.paragraph{
+   width:100%;
+   
+}
+.image{
+   margin:auto;
+
+    width:100%;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.13);
+    border-width: 1px;
+    margin-right:30px;
+    padding: 3px;
+}
+.btn-group .buttong {
+   
+    border: 1px solid grey;
+   
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+    float: left;
+    width:80%;
+    height:20%;
+    border-radius: 15px;
+}
+ .move_picuture{
+         visibility: hidden;
+         float:right;
+        
+}
+.culturenight{
+         
+        visibility: hidden;
+        float:right;
+}
+.gospelform{
+        visibility: visible;
+        position: absolute;
+    
+        top: 10%;
+        width:80%;
+        margin:auto;
+}
+   
+
+
+}
+@media only screen and (max-width: 1500px) and (min-width: 1000px) {
+
+.makeside {
+    width: 20%;
+    float:right;
+    
+}
+.container_a{
+      margin: 0px auto 15px auto;
+      width:90%;
+      padding:0px;
+    overflow: auto;
+}
+.activityrightpart{
+     width:60%; 
+     float:left;
+     margin-top:0px;
+     margin-left:10%;
+ }
+}
+@media only screen and (max-width: 1300px) {
+.makeside {
+    width: 100%;
+    float:right;
+	
+    
+}
+.container_a{
+      margin: 15px auto 15px auto;
+      width:80%;
+      padding:5px;
+    overflow: auto;
+}
+.activityrightpart{
+     width:60%; 
+     float:left;
+     margin-top:0px;
+     margin-left:0PX;
+	 
+ }
+}
+@media screen and (max-width: 1250px) and (min-width: 1000px){
+.container_f {
+    margin: 15px auto 15px auto;
+    width: 90%;
+    padding: 5px;
+    overflow: auto;
+}
+}
+
+@media only screen and (max-width: 800px) {
+   .container_f{
+    margin: 15px auto 15px auto;
+    width: 100%;
+    padding: 5px;
+    overflow: auto;
+   }
+
+    
+}
+
+@media only screen and (max-width: 800px) {
+
+    .move_picuture{
+         visibility: hidden;
+         float:right;
+        
+    }
+    .culturenight{
+         
+        visibility: hidden;
+        float:right;
+    }
+    .gospelform{
+        visibility: visible;
+        position: absolute;
+    
+        top: 50%;
+        width:80%;
+        margin:auto;
+       
+    }
+    footer{
+        margin-top:10%;
+       
+    }
+   
+}
+

@@ -1,0 +1,52 @@
+[05-Jan-2018 16:21:21 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 39
+[05-Jan-2018 16:30:57 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[05-Jan-2018 16:31:48 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[05-Jan-2018 16:31:57 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[09-Jan-2018 11:38:16 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[09-Jan-2018 11:45:43 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[09-Jan-2018 12:23:03 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[09-Jan-2018 12:25:34 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 40
+[09-Jan-2018 12:30:37 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:36:29 Pacific/Honolulu] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 42
+[09-Jan-2018 12:36:29 Pacific/Honolulu] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 44
+[09-Jan-2018 12:38:46 Pacific/Honolulu] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 42
+[09-Jan-2018 12:38:46 Pacific/Honolulu] PHP Fatal error:  Call to a member function setAttribute() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 44
+[09-Jan-2018 12:39:21 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:41:27 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:43:53 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:44:08 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:44:08 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 63
+[09-Jan-2018 12:48:41 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:48:41 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 63
+[09-Jan-2018 12:48:44 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:48:44 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 63
+[09-Jan-2018 12:49:13 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:49:13 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 63
+[09-Jan-2018 12:49:16 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 12:49:16 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 63
+[09-Jan-2018 13:46:18 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 59
+[09-Jan-2018 13:48:26 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 68
+[09-Jan-2018 14:06:02 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 68
+[09-Jan-2018 14:35:40 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:38:45 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:40:16 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:40:19 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:40:39 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:53:44 Pacific/Honolulu] PHP Fatal error:  Call to a member function query() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 69
+[09-Jan-2018 14:58:54 Pacific/Honolulu] PHP Fatal error:  Class 'mysqli' not found in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 41
+[09-Jan-2018 15:38:45 Pacific/Honolulu] PHP Fatal error:  Class 'mysqli' not found in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 41
+[09-Jan-2018 15:41:34 Pacific/Honolulu] PHP Fatal error:  Class 'mysqli' not found in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 41
+[09-Jan-2018 15:41:39 Pacific/Honolulu] PHP Fatal error:  Class 'mysqli' not found in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 41
+[09-Jan-2018 15:42:42 Pacific/Honolulu] PHP Fatal error:  Call to a member function close() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 79
+[09-Jan-2018 15:44:19 Pacific/Honolulu] PHP Fatal error:  Call to a member function close() on a non-object in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 79
+[10-Jan-2018 11:44:08 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'fulei888'@'localhost' (using password: YES) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 64
+[10-Jan-2018 11:44:08 Pacific/Honolulu] PHP Fatal error:  Call to undefined function mysqli_connect_error() in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 68
+[10-Jan-2018 12:02:14 Pacific/Honolulu] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 87
+[10-Jan-2018 12:02:14 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 97
+[10-Jan-2018 12:02:14 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 97
+[10-Jan-2018 12:02:14 Pacific/Honolulu] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 99
+[10-Jan-2018 12:02:14 Pacific/Honolulu] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 103
+[10-Jan-2018 12:03:03 Pacific/Honolulu] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 87
+[10-Jan-2018 12:08:34 Pacific/Honolulu] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 87
+[10-Jan-2018 12:13:41 Pacific/Honolulu] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 87
+[10-Jan-2018 12:14:27 Pacific/Honolulu] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/fulei888/public_html/IT240/Projects/Final Project/form.php on line 87
